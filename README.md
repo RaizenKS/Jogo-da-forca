@@ -6,5 +6,5 @@ Interface abaixo <br> <br>
 ![Interface](https://github.com/user-attachments/assets/325d09aa-525a-42f0-b48d-e9ff8dd9f5a6)
 <br>
 
-TECNOLOGIAS UTILIZADAS ⬇️
+TECNOLOGIAS UTILIZADAS ⬇️ <br>
 ▪ HTML ▪️ CSS ▪️ JAVASCRIPT 
