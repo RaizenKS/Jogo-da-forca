@@ -1,0 +1,29 @@
+@media  (max-width: 500px) {
+    main{
+    height: 75%;
+    }
+
+    article{
+        padding: 0px;
+        height: 25%;
+    }
+
+    #teclado{
+        width: 100%;
+    }
+
+    .letter{
+        width: 30px;
+        margin:0px 0.2rem
+    }
+}
+
+@media  (max-height: 500px) {
+    article{
+        padding: 0px;
+    }
+
+    #teclado{
+        width: 100%;
+    }
+}

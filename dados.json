@@ -1,0 +1,18 @@
+[
+    {
+        "tema":"Animais",
+        "array": ["gato","onça","leopardo","leao","elefante","macaco","cobra","tigre","girafa","camelo",
+        "raposa","papagaio","golfinho","tubarao","sapo","hipopotamo","panda","capivara","dromedario"]
+    },
+    {
+        "tema":"Insetos",
+        "array": ["barata","lacraia","besouro","abelha","escaravelho","formiga","gafanhoto","joaninha",
+        "lacraia","lagarta","zangao","vespa","maribondo"]
+    },
+    {
+        "tema":"Carros",
+        "array":["argo","astra","amarok","bmw","byd","citroen","chery","duster","ducato","evoque","elantra",
+        "eclipse","ferrari","fiat","ford","golf","gol","gallardo","honda","hyundai","jaguar","jeep","kombi","kwid",
+        "logan","veloster","nivus"]
+    }
+]
